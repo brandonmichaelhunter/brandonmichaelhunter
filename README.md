@@ -1,6 +1,6 @@
-Hello there 👋, 
+### Hello there 👋, 
 
-I’m Brandon and I'm a full stack engineer.
+### I’m Brandon and I'm a full stack engineer.
 
 For the past 7 years at NTT Data Inc I've been building and delivering innovative web based solutions for their clients.
 
@@ -13,7 +13,9 @@ For my personal life,
  - Sports fan of Phillies, Eagles, Sixers, Flyers, Aves, West Virgina Mountaineers (Basketball and Baseball Only), University of South Carolina (Football and Baseball Only) and Everton FC
 
 🌱 Currently I'm learning Azure, Linode, Azure DevOps, Python, AI\Machine Learning.
+
 💞️ I’m looking to collaborate on Azure, Python and Bioinformatics projects.
+
 📫 How to reach me at @SCPythonDude (twitter)
 
 Website: https://brandonmichaelhunter.github.io/
