@@ -26,3 +26,20 @@ brandonmichaelhunter/brandonmichaelhunter is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
  
+
+### Code Base Solutions 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonmichaelhunter&repo=Azure&show_icons=true&theme=transparent&description_lines_count=3)](https://github.com/brandonmichaelhunter/Azure)
+
+
+<!--
+
+Not support on GitHub Markdown:
+
+<iframe src="https://raw.githubusercontent.com/HariSekhon/HariSekhon/main/knowledge.md" width="100%" height="500px"></iframe>
+
+Does nothing:
+
+<embed src="https://raw.githubusercontent.com/HariSekhon/HariSekhon/main/knowledge.md" width="100%" height="500px" />
+
+-->
